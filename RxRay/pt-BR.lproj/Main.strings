@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Tap me"; ObjectID = "hBq-hY-VyT"; */
+"hBq-hY-VyT.normalTitle" = "Tap me";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iPg-gl-sb9"; */
+"iPg-gl-sb9.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kRB-ZJ-nMa"; */
+"kRB-ZJ-nMa.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Dismiss"; ObjectID = "wnA-Ee-fro"; */
+"wnA-Ee-fro.normalTitle" = "Dismiss";
